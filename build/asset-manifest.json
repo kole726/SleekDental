@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "https://americanonlinebenefits.com/testing/sleekdental/static/css/main.61c91dc0.css",
+    "main.js": "https://americanonlinebenefits.com/testing/sleekdental/static/js/main.796ed7a1.js",
+    "static/media/reporting.png": "https://americanonlinebenefits.com/testing/sleekdental/static/media/reporting.8e21c7236fdce41656ff.png",
+    "static/media/background-features.jpg": "https://americanonlinebenefits.com/testing/sleekdental/static/media/background-features.8ba630fe852a0cfc2c76.jpg",
+    "static/media/expenses.png": "https://americanonlinebenefits.com/testing/sleekdental/static/media/expenses.ec22dfc3499a3b313728.png",
+    "static/media/payroll.png": "https://americanonlinebenefits.com/testing/sleekdental/static/media/payroll.4a31cb5160ad799713e8.png",
+    "static/media/vat-returns.png": "https://americanonlinebenefits.com/testing/sleekdental/static/media/vat-returns.318c726e40e2ae31349b.png",
+    "static/media/background-faqs.jpg": "https://americanonlinebenefits.com/testing/sleekdental/static/media/background-faqs.503bf36a8ed95ddfdd25.jpg",
+    "index.html": "https://americanonlinebenefits.com/testing/sleekdental/index.html",
+    "main.61c91dc0.css.map": "https://americanonlinebenefits.com/testing/sleekdental/static/css/main.61c91dc0.css.map",
+    "main.796ed7a1.js.map": "https://americanonlinebenefits.com/testing/sleekdental/static/js/main.796ed7a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61c91dc0.css",
+    "static/js/main.796ed7a1.js"
+  ]
+}
